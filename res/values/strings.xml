@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PastWeatherHistory</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="citiesTextView">Enter cities for which weather data is to be viewed</string>
+    <string name="title_activity_display_weather_data">DisplayWeatherData</string>
+   <string name="listHintTextview">Click on city to view weather details</string>
+    <string name="okbtn"> Submit </string>
+    <string name="resetbtn">  Reset  </string>
+    
+    
+    <color name="blue">#FF000055</color>
+     <color name="white">#FFFFFFFF</color> 
+     <color name="lightblue">#20b2aa</color>
+     <color name="lightyellow">#fffacd</color>
+</resources>
